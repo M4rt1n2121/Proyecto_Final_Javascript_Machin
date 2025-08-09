@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "username": "Juan",
+        "password": "1234",
+        "name": "Juan Narvaez",
+        "accounts": [
+            {
+                "id": "001-12345678",
+                "type": "Cuenta Corriente",
+                "balance": 125000.50,
+                "currency": "ARS"
+            },
+            {
+                "id": "001-87654321",
+                "type": "Caja de Ahorro",
+                "balance": 78500.75,
+                "currency": "ARS"
+            },
+            {
+                "id": "001-56781234",
+                "type": "Cuenta Dólares",
+                "balance": 350000.00,
+                "currency": "USD"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "username": "Adrian",
+        "password": "1234",
+        "name": "Adrian Gonzalez",
+        "accounts": [
+            {
+                "id": "002-11223344",
+                "type": "Cuenta Corriente",
+                "balance": 85000.25,
+                "currency": "ARS"
+            },
+            {
+                "id": "002-44332211",
+                "type": "Cuenta Dólares",
+                "balance": 1200.50,
+                "currency": "USD"
+            }
+        ]
+    }
+]
